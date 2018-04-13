@@ -1,0 +1,32 @@
+{
+  "name": "json-cache-db",
+  "version": "1.0.0",
+  "description": "An in-memory cache that saves to JSON and can be used as a database ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damusix/json-cache-db.git"
+  },
+  "keywords": [
+    "json",
+    "cache",
+    "database",
+    "db",
+    "memory",
+    "events",
+    "observer"
+  ],
+  "author": "Danilo Alonso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damusix/json-cache-db/issues"
+  },
+  "homepage": "https://github.com/damusix/json-cache-db#readme",
+  "dependencies": {
+    "memory-cache2": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
